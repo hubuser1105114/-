@@ -43,7 +43,7 @@ int main() {
 
 				xxcx(p);
 				break;
-			case '5':
+			case '5':   
 
 				spxxpx(p);
 				break;
